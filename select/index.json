@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Be the Best! Be the Blue!",
+  "base_artist": "OxT",
+  "createdAt": "2026-02-16T03:04:11.317386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Be the Best ! Be the Blue !",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/01_Be_the_Best_!_Be_the_Blue_!_OxT.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be the Best! Be the Blue!",
+      "artist": "Okuto",
+      "has_synced": false,
+      "path": "select/02_Be_the_Best!_Be_the_Blue!_Okuto.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be the Best! Be the Blue! (Album ver.)",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/03_Be_the_Best!_Be_the_Blue!_(Album_ver.)_OxT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Be the Best! Be the Blue! (Album ver.)",
+      "artist": "Okuto",
+      "has_synced": false,
+      "path": "select/04_Be_the_Best!_Be_the_Blue!_(Album_ver.)_Okuto.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be The Best! Be The Blue!",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/05_Be_The_Best!_Be_The_Blue!_OxT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be The Best! Be The Blue!",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/pl_01_Be_The_Best!_Be_The_Blue!_OxT.txt"
+    }
+  ]
+}
